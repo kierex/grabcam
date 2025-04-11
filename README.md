@@ -89,15 +89,11 @@ __SELECT OPTION__ :
 
 ## SCREEN SHOTS [Termux]
 
-<br>
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96668024-14d6f100-130f-11eb-9b77-321909b67a8f.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96668019-13a5c400-130f-11eb-9b30-c96a055b7532.jpg"/>
-</p>
+
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
+https://www.facebook.com/kierex.meontrios
 
 ## CONNECT WITH US : https://www.facebook.com/kierex.meontrios
 
