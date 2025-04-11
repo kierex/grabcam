@@ -22,7 +22,7 @@ echo '
                         |  ((_))   ||     -_
                         |__________|/
                
-                  V       E       R       N
+                  K       I       E       R
                   |       |       |       |
                   |       |       |       |
                   |_______|_______|_______|
@@ -36,7 +36,7 @@ echo '
                                                                                
 echo " "
 printf "      \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf "          \e[1;77m v1.1 This reborn script by { Noob Hackers }\e[0m \n"
+printf "          \e[1;77m v1.1 This reborn script by { Kierex }\e[0m \n"
 
 printf "\n"
 
